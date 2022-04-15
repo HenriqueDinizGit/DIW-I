@@ -1,0 +1,89 @@
+
+.header{
+    background-color: rgb(7, 16, 102);
+    margin-bottom: 10px;
+    font-size: small;
+    text-align: center;
+}
+
+.logo{
+    width: 70px;
+    margin-top: 16px;
+
+}
+
+.d-flex{
+    margin-top: 60px ;
+}
+
+.area_header{
+    padding: 10px;
+}
+
+.menu_area{
+    margin-top: 60px;
+}
+
+.menu_area ul a{
+    color: rgb(75, 176, 209);
+}
+
+.active{
+    background-color:lightblue !important;
+}
+
+.menu_area ul a:hover{
+    background-color: lightblue;
+}
+
+.main{
+   background-color: rgb(255, 255, 255);
+}
+
+.lancamentos{
+    text-align: center;
+    color: rgb(75, 176, 209);
+}
+
+
+
+.footer{
+    background-color: rgb(7, 16, 102);
+    color: white;
+}
+
+.area_footer{
+    padding: 10px;
+    text-align: center;
+}
+
+.carousel{
+    position: relative;left: auto;
+}
+
+.titulo_lancamento{
+    font-size: 30px;
+}
+
+.estrelinhas{
+    width: 150px;
+}
+
+.main2{
+    margin-top: 100px;
+    background-color: rgb(243, 243, 243);
+}
+
+.titulo_destaque{
+    color: rgb(75, 176, 209);
+}
+
+.dropdown{
+    margin-top: 10px;
+}
+
+.carregar{
+    position: relative; left: 1003px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
