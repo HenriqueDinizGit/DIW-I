@@ -1,0 +1,269 @@
+
+
+
+.header{
+    margin-bottom: 10px;
+}
+
+.navbar-nav{
+    color: rgb(75, 176, 209);
+    margin-left: 70px;
+}
+
+.nav-link{
+    margin-top: 30px;
+    margin-left: 20px;
+    background-color: aliceblue;
+}
+
+.logo{
+    width: 70px;
+    margin-top: 16px;
+
+}
+
+.d-flex{
+    margin-top: 30px ;
+}
+
+.area_header{
+    padding: 10px;
+}
+
+.menu_area{
+    margin-top: 60px;
+}
+
+.menu_area ul a{
+    color: rgb(75, 176, 209);
+}
+
+.active{
+    background-color:lightblue !important;
+}*/
+
+.menu_area ul a:hover{
+    background-color: lightblue;
+}*/
+
+.main{
+   background-color: rgb(255, 255, 255);
+}
+
+.lancamentos{
+    text-align: center;
+    color: rgb(75, 176, 209);
+    margin-bottom: 20px;
+}
+
+
+
+.footer{
+    background-color: rgb(255, 255, 255);
+    
+}
+
+.texto-foot{
+    padding: 35px;
+}
+
+.area_footer{
+    padding: 10px;
+    text-align: center;
+}
+
+.carousel{
+    left: auto;
+}
+
+.titulo_lancamento{
+    font-size: 30px;
+}
+
+.estrelinhas{
+    width: 150px;
+}
+
+.main2{
+    margin-top: 100px;
+    background-color: rgb(243, 243, 243);
+}
+
+.titulo_destaque{
+    color: rgb(75, 176, 209);
+}
+
+.dropdown{
+    margin-top: 10px;
+    margin-bottom: 20px;
+    color: blue;
+}
+
+.carregar{
+    margin-left: 1003px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.ultimas{
+    color: rgb(75, 176, 209);
+    margin-bottom: 20px;
+}
+
+.card-body img{
+    width: 50px;
+}
+
+.card-title{
+    font-size: 19px;
+}
+
+.card-subtitle{
+    margin-top: 5px;
+}
+
+.displayflex{
+    display: flex;
+    flex-wrap: wrap;
+
+}
+
+.card{
+    margin-bottom: 40px;
+    width: 21rem;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.estrelinhas{
+    margin-left: 50px;
+    width: 100px !important;
+}
+
+.card-filme{
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 40px;
+    margin-inline-start: 20px;
+    margin-inline-end: 10px;
+}
+
+.carregar-ava{
+    margin-top: 15px;
+    margin-bottom: 15px;
+    width: 15rem;
+}
+
+.entreof{
+    color: rgb(75, 176, 209);
+    margin-bottom: 20px;
+}
+
+.card iframe{
+    width: 280px;
+}
+
+.nov{
+    color: rgb(75, 176, 209);
+    margin-bottom: 20px; 
+}
+
+.main4{
+    background-color: rgb(243, 243, 243);
+}
+
+.img-nov{
+    width: 300px !important;
+}
+
+h5{
+    color: rgb(75, 176, 209); 
+}
+
+.sobre{
+    color: rgb(75, 176, 209);
+}
+
+.editorial{
+    color: rgb(75, 176, 209);
+}
+
+.ediusu{
+    width: 20px;
+}
+
+.rs{
+    width: 35px;
+    margin-left: 10px;
+}
+
+#menutoggle{
+    display: none;
+}
+
+.menu-icon{
+    display: none;
+} 
+
+
+
+
+
+@media screen and (max-width:992px) {
+
+    .container-info {
+        margin-top: 10%;
+        padding-left: 10%;
+        margin-right: 18%;
+        margin-bottom: 10%;
+    }
+
+    .card-img-top {
+        width: 100%;
+        height: 100%;
+    }
+
+    .d-flex{
+        margin-bottom: 0px;
+    }    
+
+    .menu_area{
+        margin: 0px;
+    }
+
+    .nav-tabs{
+        display: none;
+    }
+
+    .dropdown1{
+        margin-left: 140px;
+        margin-top: 25px;
+    }
+
+    .carregar{
+        margin-right: 20px;
+        margin-left: 1px;
+        width: 10rem;
+    }
+
+    .dropdown{
+        margin-right: 40px;
+    }
+
+    .carregar-ava{
+        display: none;
+    }
+
+    .rs{
+        margin: 0px;
+    }
+
+    .card-filme{
+        width: 18rem;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+
+    
+}
