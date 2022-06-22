@@ -59,7 +59,8 @@
 
 
 .footer{
-    background-color: rgb(255, 255, 255);
+    margin-top: 30px;
+    background-color: rgb(248, 247, 247);
     
 }
 
@@ -89,7 +90,7 @@
     background-color: rgb(243, 243, 243);
 }
 
-.titulo_destaque{
+.destaques {
     color: rgb(75, 176, 209);
 }
 
