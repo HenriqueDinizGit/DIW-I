@@ -1,0 +1,45 @@
+
+.header{
+    margin-bottom: 10px;
+}
+
+.navbar-nav{
+    color: rgb(75, 176, 209);
+    margin-left: 70px;
+}
+
+.nav-link{
+    margin-top: 30px;
+    margin-left: 20px;
+    background-color: aliceblue;
+}
+
+.logo{
+    width: 70px;
+    margin-top: 16px;
+
+}
+
+.d-flex{
+    margin-top: 30px ;
+}
+
+.area_header{
+    padding: 10px;
+}
+
+.menu_area{
+    margin-top: 60px;
+}
+
+.menu_area ul a{
+    color: rgb(75, 176, 209);
+}
+
+.active{
+    background-color:lightblue !important;
+}*/
+
+.menu_area ul a:hover{
+    background-color: lightblue;
+}*/
